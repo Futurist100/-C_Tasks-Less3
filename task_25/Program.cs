@@ -1,7 +1,6 @@
 ﻿// Напишите цикл, который принимает на вход два числа (A и B) и возводит число A в натуральную степень B.
-// 5,3 = 243
+// 3,5 = 243
 // 2,4 = 16
-
 
 System.Console.WriteLine("Введите число A ");
 
@@ -22,4 +21,4 @@ for (int i = 1; i <= degree; i++)
  
       }
 
-     System.Console.WriteLine($"Результат равенO: {temp}");
+     System.Console.WriteLine($"Результат равен: {temp}");
